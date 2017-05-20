@@ -280,7 +280,12 @@ header .mobile {
   color: white;
 }
 
+#filters-section img {
+    width: 100%;
+}
+
 #filters-section .images-container {
+  display: flex;
   max-width: 100%;
   padding: 0 1%;
 }
